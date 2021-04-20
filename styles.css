@@ -13,9 +13,10 @@
 
 body{
     width: 100%;
-    margin: 0 auto;}
+    margin: 0 auto;
+}
 
-
+/*HEADER*/
 #topBg{
     text-align: center;
     height: 70px;
@@ -41,3 +42,29 @@ body{
 #Contact{
     margin-right: 24px;
 }
+/*HEADER*/
+/*BG*/
+#BG{
+    position: fixed;
+    width: 934.09px;
+    height: 800px;
+    left: -307.09px;
+    top: 70px;
+    
+}
+#shape1{
+    position:relative;
+    width: 726px;
+    height: 352px;
+
+    top: -140px;
+
+    background: #3947B6;
+    box-shadow: 0px 11px 106px #2A389D;
+    transform: rotate(15deg);
+    border-radius: 50px;
+}
+
+
+
+/*BG*/
