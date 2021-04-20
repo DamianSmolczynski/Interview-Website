@@ -1,0 +1,43 @@
+@font-face {
+    font-family: "Sen Regular";
+    src: url("Sen-Regular.ttf");
+}
+@font-face {
+    font-family: "Sen Bold";
+    src: url("Sen-Bold.ttf");
+}
+@font-face {
+    font-family: "Sen ExtraBold";
+    src: url("Sen-ExtraBold.ttf");
+}
+
+body{
+    width: 100%;
+    margin: 0 auto;}
+
+
+#topBg{
+    text-align: center;
+    height: 70px;
+    display: flex;
+}
+#logo{
+    width: 56px;
+    height: 22px;
+    margin: 24px auto 24px 16px;
+    float: left;
+}
+
+
+.menuButton{
+    float: right;
+    margin: 24px 12px 27px 12px;
+    font-family: "Sen Regular";
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 19px;
+    color: #1C2085;
+}
+#Contact{
+    margin-right: 24px;
+}
